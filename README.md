@@ -8,6 +8,7 @@ It is inspired by the official [DigitalOcean tutorial](https://www.digitalocean.
 ## 🚀 Mini-Project Summary
 
 In this mini-project, you will learn how to:
+
 ✅ Install and configure the Nginx web server on a Linux machine  
 ✅ Obtain and deploy a free HTTPS certificate with Let's Encrypt and Certbot  
 ✅ Configure automatic renewal of the certificate  
