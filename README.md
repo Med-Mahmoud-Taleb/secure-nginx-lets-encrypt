@@ -26,7 +26,9 @@ It is inspired by resources :
 ## 🚀 Mini-Project Summary
 
 In this mini-project, you will learn how to:
-
+<ul>
+  <li>uuu</li>
+</ul>
 ✅ Install and configure the NGINX web server on a Linux machine
 ✅ Obtain and deploy a free HTTPS certificate with Let’s Encrypt and Certbot
 ✅ Set up automatic renewal of SSL certificates
