@@ -2,8 +2,9 @@
 
 This repository provides a practical mini-project to set up a secure Nginx web server using a free SSL/TLS certificate from Let's Encrypt.  
 It is inspired by resources :
+
 [DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04).
- 
+
 [NGINX HTTPS Documentation](https://nginx.org/en/docs/http/configuring_https_servers.html).
 
 [OWASP Secure Headers Project](https://owasp.org/www-project-secure-headers).
