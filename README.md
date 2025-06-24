@@ -15,15 +15,23 @@ It is inspired by resources :
 
 [Securing Your Web Server with NGINX: HTTPS and Best Practices](https://medium.com/@mathur.danduprolu/securing-your-web-server-with-nginx-https-and-best-practices-part-5-7-99ad19bf5b1f)
 
+[SSLLabs for HTTPS Testing](https://www.ssllabs.com/).
+
+[Penetration Testing](http://vulnweb.com/).
+
+
+
 ---
 
 ## 🚀 Mini-Project Summary
 
 In this mini-project, you will learn how to:
 
-✅ Install and configure the Nginx web server on a Linux machine  
-✅ Obtain and deploy a free HTTPS certificate with Let's Encrypt and Certbot  
-✅ Configure automatic renewal of the certificate  
-✅ Apply security best practices to harden your web server  
+✅ Install and configure the NGINX web server on a Linux machine
+✅ Obtain and deploy a free HTTPS certificate with Let’s Encrypt and Certbot
+✅ Set up automatic renewal of SSL certificates
+✅ Apply security best practices to harden your web server
+✅ Use OWASP ZAP to identify vulnerabilities in the server configuration
+✅ Use Nmap to scan the server for open ports and potential weaknesses
 
 ---
