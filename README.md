@@ -27,13 +27,15 @@ It is inspired by resources :
 
 In this mini-project, you will learn how to:
 <ul>
-  <li>uuu</li>
+  <li>✅ Install and configure the NGINX web server on a Linux machine</li>
+  <li>✅ Obtain and deploy a free HTTPS certificate with Let’s Encrypt and Certbot</li>
+  <li>✅ Set up automatic renewal of SSL certificates</li>
+  <li>✅ Apply security best practices to harden your web server</li>
+  <li>✅ Use OWASP ZAP to identify vulnerabilities in the server configuration</li>
+  <li>✅ Use Nmap to scan the server for open ports and potential weaknesses</li>
 </ul>
-✅ Install and configure the NGINX web server on a Linux machine
-✅ Obtain and deploy a free HTTPS certificate with Let’s Encrypt and Certbot
-✅ Set up automatic renewal of SSL certificates
-✅ Apply security best practices to harden your web server
-✅ Use OWASP ZAP to identify vulnerabilities in the server configuration
-✅ Use Nmap to scan the server for open ports and potential weaknesses
+
+
+
 
 ---
